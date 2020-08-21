@@ -1,5 +1,5 @@
 package MultiLevel_Inheritance;
-
+/*
 public class ManagerSal extends OfficerSal{
 	
 	public ManagerSal(String code, String name, int sal) {
@@ -14,3 +14,4 @@ public class ManagerSal extends OfficerSal{
 	}
 
 }
+*/

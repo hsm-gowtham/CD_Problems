@@ -1,5 +1,5 @@
 package MultiLevel_Inheritance;
-
+/*
 public class OfficerSal extends WorkerDetail{
 	public OfficerSal() {
 		super(code,name,sal);
@@ -11,3 +11,4 @@ public class OfficerSal extends WorkerDetail{
 		return(0.98f*sal);
 	}
 }
+*/

@@ -7,7 +7,7 @@ public class Main {
 		String code=sc.next();
 		String name=sc.next();
 		int sal=sc.nextInt();
-		ManagerSal ms=new ManagerSal(code,name,sal);
-		System.out.println(ms.hra());
+		//ManagerSal ms=new ManagerSal(code,name,sal);
+		//System.out.println(ms.hra());
 	}
 }

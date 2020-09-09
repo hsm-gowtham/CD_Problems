@@ -1,4 +1,4 @@
-package ChellaDurai_Problems.Test_ques;
+package ChellaDurai_Problems.Arrays;
 
 import java.util.*;
 

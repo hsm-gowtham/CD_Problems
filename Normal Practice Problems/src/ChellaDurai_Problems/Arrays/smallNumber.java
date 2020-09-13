@@ -2,7 +2,8 @@ package ChellaDurai_Problems.Arrays;
 import java.util.*;
 public class smallNumber {
 
-	public Integer smallNumberCheck(int i) {
+	public static void main(String args[]) {
+		int i=532300;
 		Map<Integer,Integer> map=new HashMap<Integer,Integer>();
 		while(i!=0)
 		{
@@ -20,9 +21,9 @@ public class smallNumber {
 				ans+=String.valueOf(val.getKey());
 			}
 		}
-		System.out.print(map);
-		System.out.print(ans);
-		return(Integer.parseInt(ans));
+		System.out.println(map);
+		System.out.println(ans);
+		System.out.println(Integer.parseInt(ans));
 	}
 
 }
